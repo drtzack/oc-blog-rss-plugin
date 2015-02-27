@@ -8,7 +8,7 @@ use Controller;
 use Event;
 use System\Classes\PluginBase;
 use SoBoRed\Rss\Models\Settings;
-use October\Rain\Support\Markdown;
+use Markdown;
 
 class Plugin extends PluginBase
 {
